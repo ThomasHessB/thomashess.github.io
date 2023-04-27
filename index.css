@@ -1,0 +1,131 @@
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  border-radius: 12px;
+  color: khaki;
+  text-align: center;
+  margin: 100px;
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*fgd644*_ga*NTM5NzI1NjM5MS4xNjgxMjM5NTUz*_ga_3LRZM6TM9L*MTY4MjUzNjQ1NS42Ni4xLjE2ODI1MzkwODIuNjAuMC4w");
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 42px;
+  color: white;
+  border: 8px;
+  padding: 10px;
+  border-radius: 12px;
+  margin-right: 81%;
+  background-color: rgb(10, 155, 10);
+  text-align: center;
+}
+
+h2:hover {
+  font-family: monospace;
+  font-size: 42px;
+  color: white;
+  border: 8px;
+  padding: 10px;
+  border-radius: 12px;
+  margin-right: 81%;
+  background-color: rgb(10, 155, 10, 0.8);
+  text-align: center;
+}
+
+h3 {
+  font-family: monospace;
+  font-size: 42px;
+  color: white;
+  border: 8px;
+  padding: 10px;
+  border-radius: 12px;
+  margin-right: 81%;
+  background-color: rgb(228, 20, 89);
+  text-align: center;
+}
+
+h4 {
+  font-family: monospace;
+  font-size: 42px;
+  color: white;
+  border: 8px;
+  padding: 10px;
+  border-radius: 12px;
+  margin-right: 81%;
+  background-color: rgb(57, 54, 255);
+  text-align: center;
+}
+
+.title {
+  font-family: monospace;
+  font-size: 40px;
+  margin: 15px;
+  color: black;
+  font-weight: bold;
+}
+
+.description {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 24px;
+  color: black;
+  margin: 15px;
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 12px;
+}
+
+.price {
+  color: rgb(4, 4, 14);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: rgba(137, 43, 226, 0.5);
+  border-radius: 10px;
+  margin-right: 78%;
+  text-align: center;
+}
+
+.price:hover {
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.footer {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 24px;
+  color: black;
+  margin: 15px;
+  font-weight: bold;
+  text-align: center;
+  position: sticky;
+  margin-top: 200px;
+}
+
+.footer:hover {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-align: center;
+  position: sticky;
+  margin-top: 200px;
+  background-color: rgba(178, 34, 34, 0.459);
+  margin: 100px;
+}

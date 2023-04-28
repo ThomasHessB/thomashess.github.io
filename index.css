@@ -1,7 +1,3 @@
-@font-face {
-  font-family: 'liquid';
-  src: url('../LiquidCrystal-Normal.otf') format('opentype');
-}
 
 * {
   box-sizing: border-box;
@@ -11,7 +7,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: liquid;
+  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   color: white;

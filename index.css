@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "liquid";
-  src: url("../LiquidCrystal-Normal.otf") format("opentype");
+  font-family: 'liquid';
+  src: url('../LiquidCrystal-Normal.otf') format('opentype');
 }
 
 * {
